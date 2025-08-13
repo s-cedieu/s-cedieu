@@ -15,6 +15,7 @@ age = input("How old are you? ")
 # 4. Handles Data Types: The input is always returned as a string, so if
 #    you need a different data type (like an integer), you must convert it explicitly
 #    using functions like int() or float().
+
 height = input("How tall are you? ")
 weight = input("How much do you weight? ")
 
