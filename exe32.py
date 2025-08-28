@@ -40,6 +40,8 @@ for i in  range(0, 6):
   print(f"Adding  to the list.")
      # append it's a funtion that list understand
   elements.append(i)
+  # The append() method in Python is a built-in list method used to add a single item to the end of an existing list.
+  #  This method modifies the list in place, meaning it directly alters the original list rather than creating a new one.
 
 for i in elements:
      print(f"Elements was: {i}")

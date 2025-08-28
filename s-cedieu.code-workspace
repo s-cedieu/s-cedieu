@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "s-cedieu",
+			"path": "../../home/codespace/.local/lib/python3.12/site-packages/__pycache__/s-cedieu"
+		}
+	],
+	"settings": {}
+}
